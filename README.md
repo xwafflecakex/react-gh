@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+# react-gh
+Creating React app then hosting it onto github-pages
+Exploring how to Host a React app and node JS backend onto github pages
+
+More Documentations found at https://create-react-app.dev/docs/deployment/#github-pages-https-pagesgithubcom.
+Also this was helpful: https://github.com/gitname/react-gh-pages.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,3 +76,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
